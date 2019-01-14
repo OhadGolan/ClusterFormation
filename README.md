@@ -26,9 +26,9 @@ PVAL_best_dll4       % P-value fit for adll4 treated cells
 
 
 %the parameter field to check the cluster life time for (T_final)
-T_final_start=1;        
-T_final_end=30;
+T_final_start      
+T_final_end
 
 %parameter field to check recruitment time for (i)
-i_start=1;
-i_end=20;
+i_start
+i_end
